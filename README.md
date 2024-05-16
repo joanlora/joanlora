@@ -3,9 +3,9 @@ I am currently graduating in 2024 from Lehman College with a Bachelor's Degree i
 
 My LinkedIn: Linkedin.com/in/joanlora
 
-Proficient: Azure, Linux, Python
+Proficient: Linux, Python
 
-Learning: Window Server
+Learning: Azure, Window Server, Jamf
 
 Certifications: 
 Google IT Support Professional 
