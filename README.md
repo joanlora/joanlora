@@ -12,6 +12,7 @@ Google IT Support Professional, IT Automation with Python, Data Analytics
 Azure Fundamentals (AZ-900)
 
 Certifications I plan on obtaining in 2024: 
+
 Azure Administrator (AZ-104)
 Azure AI Engineer Associate (AI-102)
 Azure DevOps Engineer Expert (AZ-400)
@@ -19,6 +20,7 @@ Azure DevOps Engineer Expert (AZ-400)
 
 CompTIA Security+ 
 CompTIA Network+
+
 Windows Server Hybrid Administrator Associate (AZ-800, AZ-801)
 
 
